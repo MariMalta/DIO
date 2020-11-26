@@ -8,7 +8,7 @@
 1 xícara de chá de açúcar
 1 colheres de sopa de fermento químico em pó
 
-* Modo de Preparo *
+## Modo de Preparo 
 
 Coloque os líquidos no liquidificador e bata até misturar bem.
 Coloque os outros ingredientes, sendo o fermento o último.
